@@ -20,7 +20,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.29.0
 	github.com/onsi/gomega v1.42.1
 	github.com/openshift-online/rosa-seaplane-api/api v0.1.23-0.20261019145519-f59b0034c13c
-	github.com/openshift-online/rosa-seaplane-api/clientset v0.1.21-0.20261019145519-f59b0034c13c
+	github.com/openshift-online/rosa-seaplane-api/clientset v0.1.23
 	github.com/spf13/cobra v1.10.2
 	k8s.io/apimachinery v0.36.3
 )

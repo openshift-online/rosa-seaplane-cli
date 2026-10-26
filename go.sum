@@ -138,8 +138,8 @@ github.com/onsi/ginkgo/v2 v2.29.0 h1:rfh+ZFjgJhYWRoIqVf3Uwx/W20yLrcrE2h2GmYVRaag
 github.com/onsi/ginkgo/v2 v2.29.0/go.mod h1:+aXOY+vzZ5mu2iI2HpTZUPmM//oQfsNFX6gU9kNcA44=
 github.com/onsi/gomega v1.42.1 h1:iN1rCUX+44NZ1Dc97MPoeFYbFR0vh8zxoxMFwKdyZ6I=
 github.com/onsi/gomega v1.42.1/go.mod h1:REff/hsDsodHoKlWsP2mAPhu1+5/6hVYNf9rIEBpeSg=
-github.com/openshift-online/rosa-seaplane-api/api v0.1.23-0.20261019145519-f59b0034c13c h1:nB1gcCSNFPs7SrGX59dIJbWkincfV3f6+v5gvj0CdYs=
-github.com/openshift-online/rosa-seaplane-api/api v0.1.23-0.20261019145519-f59b0034c13c/go.mod h1:A7C/ahX+T+bpSyY2sf9+0Qkiawhcr9D+jWIqmf64zkU=
+github.com/openshift-online/rosa-seaplane-api/api v0.1.25 h1:Sz7+yxXrS2UGj5I2PQNiRBqCRV88cS0YuoQH9byAEg8=
+github.com/openshift-online/rosa-seaplane-api/api v0.1.25/go.mod h1:A7C/ahX+T+bpSyY2sf9+0Qkiawhcr9D+jWIqmf64zkU=
 github.com/openshift-online/rosa-seaplane-api/clientset v0.1.21-0.20261019145519-f59b0034c13c h1:6XecQK6wSDHrzBsk3WAJpRvw4yT9G+ysETvbRdNxSHo=
 github.com/openshift-online/rosa-seaplane-api/clientset v0.1.21-0.20261019145519-f59b0034c13c/go.mod h1:wAI1MriAZ9k+Iw7sprrdQziXe5auP6HdO/4+z8Qr8ik=
 github.com/openshift/api v0.0.0-20260416105050-3c6b218b8a80 h1:r0S/yoZAI0iWo1JvoIijaIgWGWf/izg4WiV7Wrtz16k=
